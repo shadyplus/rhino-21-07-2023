@@ -308,7 +308,7 @@ h2 {
 .katyakoncakova_FtFDdVex .Natali0610_RVdHBJiwC {
   /*  margin-top: 40px;*/
     margin-top: 0px;
-    float: left;
+    /* float: left; */
     width: 360px;
     text-decoration: none;
     color: #000;
@@ -317,9 +317,13 @@ h2 {
 }
 
 .katyakoncakova_FtFDdVex .Natali0610_RVdHBJiwC img {
-    width: 74px;
+    width: 125px;
     height: 80px;
-    float: left
+    margin-right: 19px;
+    /* float: left; */
+    margin-top: 10px
+px
+;
 }
 
 .katyakoncakova_FtFDdVex .Natali0610_RVdHBJiwC h1 {
@@ -381,7 +385,7 @@ h2 {
 
 .katyakoncakova_FtFDdVex .puzzle_LTiRtzPGfe {
     margin-top: 10px;
-    background: #154b30 none repeat scroll 0% 0%;
+    background: #11f181 none repeat scroll 0% 0%;
     height: 50px
 }
 
